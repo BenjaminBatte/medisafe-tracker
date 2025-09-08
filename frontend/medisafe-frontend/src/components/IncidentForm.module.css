@@ -1,0 +1,24 @@
+
+.form {
+  max-width: 500px;
+  margin-bottom: 1.5rem;
+}
+
+.input {
+  border-radius: 6px;
+}
+
+.select {
+  border-radius: 6px;
+}
+
+.textarea {
+  border-radius: 6px;
+  resize: vertical; 
+  min-height: 80px;
+}
+
+.button {
+  width: 100%;
+  font-weight: 500;
+}
